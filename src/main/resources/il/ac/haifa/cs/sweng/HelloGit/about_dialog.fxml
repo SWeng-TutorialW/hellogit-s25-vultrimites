@@ -2,9 +2,17 @@
 
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
 
-<VBox xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
-      <Label text="Hadi" />
-   </children>
+<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1">
+   <Label text="Hadi" />
+	<!-- TODO Add Nodes -->
+	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
+
+	<Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hi there , We are using Git ! ! !" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+
 </VBox>
