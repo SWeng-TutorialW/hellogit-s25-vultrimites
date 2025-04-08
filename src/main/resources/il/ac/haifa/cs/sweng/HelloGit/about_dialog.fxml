@@ -5,7 +5,7 @@
 <?import javafx.scene.text.Font?>
 
 <VBox xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
-   <Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hadi " textAlignment="CENTER">
+   <Label alignment="CENTER" maxWidth="2.7976931348623157E308" text="Hadi" textAlignment="CENTER">
       <font>
          <Font size="31.0" />
       </font>
